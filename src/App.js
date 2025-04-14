@@ -20,7 +20,7 @@ function App() {
       <BrowserRouter>
       <Provider store={store}>
       <Switch>
-        <Route  exact path='/'><Register  /></Route>
+        <Route  exact path='/food-delivery-website-reactjs'><Register  /></Route>
         <Route path='/login'> <Login /></Route>
         <Route path='/home'> <Home /></Route>
         <Route path='/cart'> <Cart /></Route>
