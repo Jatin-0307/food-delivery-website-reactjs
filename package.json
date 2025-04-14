@@ -1,7 +1,7 @@
 {
   "name": "react-project",
   "version": "0.1.0",
-  "homepage": "https://Jatin-0307.github.io/food-delivery-website-reactjs",
+  "homepage": "https://jatin-0307.github.io/food-delivery-website-reactjs/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
