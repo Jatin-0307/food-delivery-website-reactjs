@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/food-delivery-website-reactjs/static/css/main.541e55d9.css",
-    "main.js": "/food-delivery-website-reactjs/static/js/main.b4078bfe.js",
+    "main.js": "/food-delivery-website-reactjs/static/js/main.d632d16b.js",
     "static/js/138.9f65d8f3.chunk.js": "/food-delivery-website-reactjs/static/js/138.9f65d8f3.chunk.js",
     "static/media/korean.png": "/food-delivery-website-reactjs/static/media/korean.4a733e2c72322f39c542.png",
     "static/media/Italifood-7.png": "/food-delivery-website-reactjs/static/media/Italifood-7.c9e75abef4e713d883ae.png",
@@ -46,11 +46,11 @@
     "static/media/cart.jpg": "/food-delivery-website-reactjs/static/media/cart.befe355adf0c662b6f16.jpg",
     "index.html": "/food-delivery-website-reactjs/index.html",
     "main.541e55d9.css.map": "/food-delivery-website-reactjs/static/css/main.541e55d9.css.map",
-    "main.b4078bfe.js.map": "/food-delivery-website-reactjs/static/js/main.b4078bfe.js.map",
+    "main.d632d16b.js.map": "/food-delivery-website-reactjs/static/js/main.d632d16b.js.map",
     "138.9f65d8f3.chunk.js.map": "/food-delivery-website-reactjs/static/js/138.9f65d8f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.541e55d9.css",
-    "static/js/main.b4078bfe.js"
+    "static/js/main.d632d16b.js"
   ]
 }
